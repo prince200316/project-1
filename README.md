@@ -1,3 +1,3 @@
 # project-1
 this is my first project
-Author-Prince Rajan
+Author-Prince Rajan(hit)
